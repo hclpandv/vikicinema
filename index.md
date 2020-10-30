@@ -1,5 +1,3 @@
-## VikiCinema
-
 
 #### TIME - 09:45 PM 
 #### DATE - 30/10/2020 
